@@ -2,7 +2,7 @@
 
 ###
 
-<h4 data-importer="text" align="center">A Passionate Full Stack Web Developer</h4>
+<h4 data-importer="text" align="center">A Passionate Full Stack Developer</h4>
 
 ###
 
