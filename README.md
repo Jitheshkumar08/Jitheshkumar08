@@ -18,7 +18,7 @@
 
 ###
 
-<p data-importer="text" align="left">💻 Focused on Full Stack Development with Next.js & TypeScript<br>🚀 Building fast, scalable, and responsive web applications<br>🎨 Designing beautiful UI with exceptional user experiences<br>🏗️ Learning System Design and scalable software architecture<br>🌟 Always exploring new technologies and best development practices</p>
+<p data-importer="text" align="left">💻 Focused on Full Stack Development with Next.js & TypeScript<br>🚀 Building fast, scalable, and responsive web applications<br>🎨 Designing beautiful UI with exceptional user experiences<br>🌟 Always exploring new technologies and best development practices</p>
 
 ###
 
