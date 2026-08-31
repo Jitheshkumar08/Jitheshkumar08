@@ -6,6 +6,14 @@
 
 ###
 
+<div align="center">
+  <a href="https://www.jitheshkumar.me/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_View_Portfolio-FF6B35?style=for-the-badge&logoColor=white" alt="portfolio badge" />
+  </a>
+</div>
+
+###
+
 <br clear="both">
 
 <div data-importer="profile-views" align="left">
